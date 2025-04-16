@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Relative.png" alt="Relative Logo" width="160"/> <!-- Replace with actual logo URL -->
+  <img src="Relative.png" alt="Relative Logo" width="160"/>
 </p>
 
 <h1 align="center">Relative</h1>
@@ -53,6 +53,7 @@ More projects will be published progressively under the [Repositories](https://g
 - Website: [https://relative.gg](https://relative.gg)
 - Discord: [Join our communities](https://discord.gg/relative)  
   *(Developer Studio & Edition Studio only)*
+- Jobs opening: Soon.
 - Email: [contact@relative.gg](mailto:contact@relative.gg)
 
 ---
