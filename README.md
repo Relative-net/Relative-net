@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://relative.gg/logo.png" alt="Relative Logo" width="160"/> <!-- Replace with actual logo URL -->
+  <img src="Relative.png" alt="Relative Logo" width="160"/> <!-- Replace with actual logo URL -->
 </p>
 
 <h1 align="center">Relative</h1>
