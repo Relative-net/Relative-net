@@ -40,9 +40,15 @@ Our repositories reflect the tools, systems, and products we actively use or dev
 
 Current public release:
 
-- **relative-bot**  
+- **Relative-Dev-bot**  
   A Discord-based productivity assistant built for developer and editor communities. Includes AI-based features, project utilities, and integrated services.  
-  *Technologies: Python, Discord.py, OpenAI API*
+
+**Technologies Used:**  
+<p align="left">
+  <img src="./assets/icons/python.png" alt="" height="16"/>
+  <img src="./assets/icons/discordpy.png" alt="Discord.py" height="16"/>
+  <img src="./assets/icons/openai.png" alt="OpenAI API" height="16"/>
+</p>
 
 More projects will be published progressively under the [Repositories](https://github.com/Relative?tab=repositories) section.
 
