@@ -45,7 +45,7 @@ Current public release:
 
 **Technologies Used:**  
 <p align="left">
-  <img src="./assets/icons/python.png" alt="" height="16"/>
+  <img src="Typescript.png" alt="" height="16"/>
   <img src="./assets/icons/discordpy.png" alt="Discord.py" height="16"/>
   <img src="./assets/icons/openai.png" alt="OpenAI API" height="16"/>
 </p>
