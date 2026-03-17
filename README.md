@@ -48,6 +48,7 @@ Current public release:
   <img src="typescript.png" alt="Typescript" height="32"/>
   <img src="icons8-nodejs-240.png" alt="NodeJs" height="32"/>
   <img src="icons8-postgresql-96.png" alt="PostreSQL" height="32"/>
+  <img src="python.png" alt="PostreSQL" height="32"/>
 </p>
 
 More projects will be published progressively under the [Repositories](https://github.com/Relative-net?tab=repositories) section.
